@@ -18,3 +18,4 @@ Growth: When the snake eats food, you just add the new head piece but don't dele
 Increasing Difficulty: The game gets faster as the snake grows! Every time the snake eats food, the movement delay (the time between steps) is slightly reduced, forcing the player to react quicker and quicker. This fulfills the increasing difficulty requirement perfectly.
 
 In short, this project was a brilliant exercise in building a robust, self-contained application that proved technical skill in data structures, memory management, and game logic, all within the strict limitations of the console environment
+[task3 output.docx](https://github.com/user-attachments/files/22983945/task3.output.docx)
